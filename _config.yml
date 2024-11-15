@@ -1,4 +1,4 @@
-minimal_mistakes_skin    : "dark" 
+minimal_mistakes_skin    : "default" 
                            # "default" "air", "aqua", "contrast", "dark"
                            # "dirt", "neon", "mint", "plum", "sunrise"
 
@@ -15,3 +15,9 @@ repository               : "https://github.com/nerobero/nerobero.github.io" # Gi
 teaser                   : # 폴백일 때 보일 이미지입니다. "assets/images/"로 연결됩니다.
 logo                     : # 화면에 보여지는 logo 이미지입니다. "assets/images"로 세팅합니다.
 masthead_title           : "angela's game portfolio"     # 화면 title 입니다.
+
+
+# Site Theme application
+remote_theme: pages-themes/tactile@v0.2.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
