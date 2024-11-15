@@ -1,10 +1,10 @@
-minimal_mistakes_skin    : "default" 
+minimal_mistakes_skin    : "aqua" 
                            # "default" "air", "aqua", "contrast", "dark"
                            # "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-EN"    # 블로그의 주요 언어입니다. 한국어로 보려고 ko-KR로 설정했습니다.
-title                    : "Ji Yoon Rhee"  # 사이트 탭에서 보이는 이름입니다.
+title                    : "Ji Yoon Rhee Portfolio"  # 사이트 탭에서 보이는 이름입니다.
 title_separator          : "-"
 subtitle                 : "version 1.0"              # 화면 title 하단에 있는 소제목입니다.
 name                     : "Ji Yoon Rhee"      # 화면 하단 영역의 이름입니다.
