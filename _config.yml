@@ -1,6 +1,16 @@
 minimal_mistakes_skin    : "default" 
                            # "default" "air", "aqua", "contrast", "dark"
                            # "dirt", "neon", "mint", "plum", "sunrise"
+lsi: false
+safe: true
+#source: [your repo's top level directory]
+incremental: false
+highlighter: rouge
+gist:
+  noscript: false
+kramdown:
+  math_engine: mathjax
+  syntax_highlighter: rouge
 
 # Site Settings
 locale: [en-EN]    # 블로그의 주요 언어입니다. 한국어로 보려고 ko-KR로 설정했습니다.
