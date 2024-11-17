@@ -4,7 +4,7 @@ minimal_mistakes_skin    : "default"
 
 # Site Settings
 locale                   : "en-EN"    # 블로그의 주요 언어입니다. 한국어로 보려고 ko-KR로 설정했습니다.
-title                    : [Ji Yoon Rhee Portfolio]  # 사이트 탭에서 보이는 이름입니다.
+title                    : ["Ji Yoon Rhee Portfolio"]  # 사이트 탭에서 보이는 이름입니다.
 name                     : [Ji Yoon Rhee]      # 화면 하단 영역의 이름입니다.
 description              : [Portfolio website]   # 설명란입니다. (어디 적용되는지 모르겠네요...) 
 url                      : [https://nerobero.github.io] # 현재의 블로그 url 입니다.
